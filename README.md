@@ -40,6 +40,6 @@ Click Launch Now. Once JupyterLab opens, follow the instructions in the SparkTes
 
 ## Slides
 
-[PDF copy](./Spark+Workloads+RAPIDS.pdf)
+[PDF copy](https://github.com/dominodatalab/webinar-gpu-accelerated-spark-and-rapids/blob/main/Spark%20Workloads%20RAPIDS.pdf)
 
 [Link to original slides for Domino employees](https://docs.google.com/presentation/d/1kvg2edb7naeZ_SAY8c1zpSe80EU5y5fS-AK2P5AHFC0/edit?usp=sharing)
