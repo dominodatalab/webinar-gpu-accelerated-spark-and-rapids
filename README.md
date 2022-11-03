@@ -38,3 +38,7 @@ Next, click on Compute cluster to set up on-demand Spark.
 
 Click Launch Now. Once JupyterLab opens, follow the instructions in the SparkTest notebook to confirm that your cluster is operating properly. You can then move onto the GPU-accelerated mortgage notebook.
 
+## Slides
+
+[PDF copy]()
+[Link to original slides for Domino employees](https://docs.google.com/presentation/d/1kvg2edb7naeZ_SAY8c1zpSe80EU5y5fS-AK2P5AHFC0/edit?usp=sharing)
