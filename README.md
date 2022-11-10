@@ -138,4 +138,5 @@ rstudio:
 Note for Internal Domino Employees:
 
 A working version can be found [here](https://market4186.marketing-sandbox.domino.tech/u/nmanchev/Spark3GPUMortgage/overview)
+
 The original slides can be found [here](https://docs.google.com/presentation/d/1kvg2edb7naeZ_SAY8c1zpSe80EU5y5fS-AK2P5AHFC0/edit?usp=sharing)
